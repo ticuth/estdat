@@ -4,4 +4,10 @@
 		<name>EducApp</name>
 		<version>1.0</version>
 	</info>
+	<newslist>
+		<news>
+			<url>https://github.com/ticuth/estdat/raw/master/Pr%C3%A1cticas07NOV.docx</url>
+			<description>Tarea de estructura de datos (Entrega 7 Nov 2014)</description>
+		</news>
+	</newslist>
 </config>

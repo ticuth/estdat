@@ -2,13 +2,14 @@
 <config>
 	<info>
 		<name>EducApp</name>
-		<version>1.0</version>
+		<version>1.1</version>
 	</info>
 	<newslist>
 		<news>
 			<url>https://github.com/ticuth/estdat/raw/master/Pr%C3%A1cticas07NOV.docx</url>
 			<description>Tarea de estructura de datos (Entrega 7 Nov 2014)</description>
 			<images>
+				<image>https://raw.githubusercontent.com/ticuth/estdat/master/images/logo.png</image>
 				<image>https://raw.githubusercontent.com/ticuth/estdat/master/images/word.png</image>
 			</images>
 		</news>
